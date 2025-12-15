@@ -14,9 +14,9 @@ Build a predictive model to identify users likely to churn.
 - SpotifyChurnRate_Group8.R: main analysis and modeling script
 
 ## Author
-Juan Sebastian Ramirez
-Ignancia George
-Kate trinh
-Ferdous Pathan
-Julian Vu Hoang
-Udi Bhasin
+Juan Sebastian Ramirez, 
+Ignancia George,
+Kate trinh,
+Ferdous Pathan,
+Julian Vu Hoang,
+Udi Bhasin,
